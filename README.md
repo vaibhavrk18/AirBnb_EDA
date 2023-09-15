@@ -17,7 +17,7 @@ AirBnb Bookings - This Project contains the information about different buroughs
 5. Queens and Staten Island got the maximum number of reiews.
 6. Staten Island is neighbourhood_group where populartion is less.
 7. Shared room has less number of average reviews.
-8. Availability of shared room_type is hight in Manhattan adn Brooklyn.
+8. Availability of shared room_type is high in Manhattan and Brooklyn.
 9. Michael, David, John, Jason, Alex, Eric and Mike are the top hosts based on number_of_reviews and availablility_365 respectively.
 10. Staten Island, Queens and Bronx are the neighbourhood_group where availability_365 of private and Entire home/apt is high as compared to Manhattan and Brooklyn.
 11. Availability_365 is less in Manhattana and Brooklyn specificaly for private room and entire home/apt room_type and shared room_type are available in big numbers.
